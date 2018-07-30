@@ -1,2 +1,2 @@
 # DIM
-This is a instance message programmer。
+This is an instance message programmer。
